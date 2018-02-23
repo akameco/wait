@@ -1,5 +1,7 @@
 # wait [![Build Status](https://travis-ci.org/akameco/wait.svg?branch=master)](https://travis-ci.org/akameco/wait)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/wait.svg)](https://greenkeeper.io/)
+
 ## Install
 
 ```
